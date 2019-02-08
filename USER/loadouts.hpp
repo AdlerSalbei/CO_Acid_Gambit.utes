@@ -18,9 +18,9 @@
 */
 
 
-loadoutFactionBlu = "BwFleck";
-loadoutFactionOpf = "";
-loadoutFactionInd = "";
+loadoutFactionBlu = "RuFlora";
+loadoutFactionOpf = "RuFlora";
+loadoutFactionInd = "RuFlora";
 
 
 //#define NIGHTVISION

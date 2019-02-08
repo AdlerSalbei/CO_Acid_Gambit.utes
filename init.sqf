@@ -8,3 +8,6 @@ enableSaving [false, false];
 
 // SCRIPTS =====================================================================
 [] execVM "USER\userInit.sqf";
+
+West setFriend [East, 1];
+East setFriend [West, 1];
